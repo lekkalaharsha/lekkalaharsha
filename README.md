@@ -100,7 +100,7 @@
 - AI-powered contextual audio feedback
 - Accessibility-focused embedded solution
 
-### [**Solar Cleaning Bot**](https://github.com/lekkalaharsha/solarcleaningbot)
+### [**Solar Cleaning Bot**](https://github.com/lekkalaharsha/solarcleaningbot.git)
 *Autonomous robot for solar panel maintenance and efficiency optimization*
 - Autonomous navigation and cleaning mechanism
 - IoT monitoring and control systems
