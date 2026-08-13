@@ -201,38 +201,6 @@ Exploring evidence-driven AI security workflows using hypothesis tracking, deter
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=lekkalaharsha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Harsha's GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekkalaharsha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Harsha's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lekkalaharsha&theme=tokyonight&hide_border=true"
-    alt="Harsha's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekkalaharsha&theme=tokyonight"
-    alt="Harsha's GitHub Contribution Summary"
-  />
-</p>
-
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
